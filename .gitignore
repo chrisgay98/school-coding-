@@ -1,0 +1,8 @@
+# C/C++ build outputs
+*.exe
+*.obj
+*.o
+*.out
+*.pdb
+*.ilk
+*.log
